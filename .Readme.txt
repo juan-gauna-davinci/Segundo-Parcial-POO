@@ -1,0 +1,5 @@
+Alumno : Juan Manuel Gauna
+Profesor: Abelardo Jose Lugo
+Primer examen de Programacion Orientada a objetos
+
+Problema
